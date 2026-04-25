@@ -29,7 +29,7 @@
 1. 디지털 스위치의 경우 꺼져 있는 상태에서도 전원에서 전류가 흐른다 -> 대기전력
 
 ### 심화 주제
-1. 저항을 통한 전압강하 (PNP 스위치 만들 때 필요)
+1. 전환 속도 및 전력 사용량 측면에서 NPN 트랜지스터를 사용하는 이유
 1. BJT(Bipolar Junction Transistor) vs FET(Field Effect Transistor)
 1. 주변 전자기기에 대해 W = V x I 가 어떻게 사용되는지 확인한다
 	- 보조배터리
