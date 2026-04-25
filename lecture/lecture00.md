@@ -4,7 +4,7 @@
 1. 기초
 	1. 스위치 [[Link](lecture01.md)]
 	1. 스위치, LED를 이용한 [[Link](lecture02.md)]
-	1. 트랜지스터를 이용한 디지털 스위치 - NPN을 쓰는 이유, 대기전력
+	1. 트랜지스터를 이용한 디지털 스위치 [[Link](lecture03.md)]
 1. 논리 연산 회로(logic gate)
 	1. NOT, AND, OR, XOR
 	1. NAND, NOR, XNOR
