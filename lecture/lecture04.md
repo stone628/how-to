@@ -52,10 +52,6 @@
 	- N-channel과 P-channel MOSFET을 쌍으로 사용하는 회로 방식
 	- 두 MOSFET이 번갈아 켜지고 꺼져서 전력 소모가 극히 적다
 	- 현대 CPU와 메모리의 기본 구성 요소다
-1. MOSFET의 세 가지 동작 영역
-	- 차단 영역(cut-off): 스위치 OFF
-	- 선형 영역(linear): 가변 저항처럼 동작
-	- 포화 영역(saturation): 스위치 ON (디지털 회로에서 주로 사용)
 1. 주변 기기에서 MOSFET이 사용되는 예를 찾아본다
 	- CPU/AP(Application Processor)
 	- DC-DC 컨버터(전압 변환 회로)
