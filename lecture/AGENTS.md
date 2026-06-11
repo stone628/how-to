@@ -14,6 +14,9 @@ Goal: understand digital circuits at the logical level with minimal electronics 
 | `lecture02.md` | LED, current-limiting resistor, diode behavior |
 | `lecture03.md` | PNP/NPN transistor as a digital switch |
 | `lecture04.md` | MOSFET as a digital switch, BJT comparison |
+| `lecture05.md` | NOT, NAND, NOR gates from MOSFETs (CMOS) |
+| `lecture06.md` | AND, OR, XOR gates from primitive gate composition |
+| `lecture07.md` | NAND as universal gate, why NAND is the gate of choice |
 
 Each lecture follows the same structure: 목표 (goals) → 실습 (practice) → 결론 (conclusion) → 심화 주제 (advanced topics).
 

@@ -7,9 +7,9 @@
 	1. 트랜지스터를 이용한 디지털 스위치 [[Link](lecture03.md)]
 	1. MOSFET을 이용한 디지털 스위치 [[Link](lecture04.md)]
 1. 논리 연산 회로(logic gate)
-	1. NOT, AND, OR, XOR
-	1. NAND, NOR, XNOR
-	1. 왜 NAND 인가? - NAND로 다른 logic gate 구현
+	1. NOT, NAND, NOR [[Link](lecture05.md)]
+	1. AND, OR, XOR [[Link](lecture06.md)]
+	1. 왜 NAND 인가? - NAND로 다른 logic gate 구현 [[Link](lecture07.md)]
 1. 메모리
 	1. Latch
 	1. Flip Flop - 클럭 신호를 추가한 Latch
