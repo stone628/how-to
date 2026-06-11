@@ -5,6 +5,7 @@
 	1. 스위치 [[Link](lecture01.md)]
 	1. 스위치, LED를 이용한 [[Link](lecture02.md)]
 	1. 트랜지스터를 이용한 디지털 스위치 [[Link](lecture03.md)]
+	1. MOSFET을 이용한 디지털 스위치 [[Link](lecture04.md)]
 1. 논리 연산 회로(logic gate)
 	1. NOT, AND, OR, XOR
 	1. NAND, NOR, XNOR
