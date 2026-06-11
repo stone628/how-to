@@ -42,6 +42,3 @@
 ### 심화 주제
 1. 전환 속도 및 전력 사용량 측면에서 NPN 트랜지스터를 사용하는 이유
 1. BJT(Bipolar Junction Transistor) vs FET(Field Effect Transistor)
-1. 주변 전자기기에 대해 W = V x I 가 어떻게 사용되는지 확인한다
-	- 보조배터리
-	- 전원어댑터

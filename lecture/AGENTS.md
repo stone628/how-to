@@ -23,6 +23,6 @@ Each lecture follows the same structure: 목표 (goals) → 실습 (practice) �
 ## Content constraints (from reviews)
 
 - **EE depth**: minimal by design. Saturation/cut-off regions, detailed transistor physics, and complex circuit analysis are intentionally excluded as distracting.
-- **심화 주제**: practical skills and questions that extend the experiment (e.g. LED forward voltage / resistor calculation, multimeter usage tips, real-vs-ideal Ohm's law deviation).
+- **심화 주제**: topics derived from lecture objectives that are worthy of another lecture; slightly deeper EE related to 실습 results or 결론; facts the 실습 proves beyond what 결론 already states. Exclude disconnected research assignments or general knowledge not tied to the 실습.
 - **실습 (practice)**: schematic diagrams and detailed build instructions are deferred — planned for a future update. Current text describes the experiment at a high level.
 - **Digital vs analog framing**: lectures emphasize the *logical* switching behavior (ON/OFF = 1/0). Line between mechanical switch (no power needed to stay closed) and transistor switch (continuous base current needed) is a key concept introduced in lecture03.

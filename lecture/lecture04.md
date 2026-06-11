@@ -52,7 +52,4 @@
 	- N-channel과 P-channel MOSFET을 쌍으로 사용하는 회로 방식
 	- 두 MOSFET이 번갈아 켜지고 꺼져서 전력 소모가 극히 적다
 	- 현대 CPU와 메모리의 기본 구성 요소다
-1. 주변 기기에서 MOSFET이 사용되는 예를 찾아본다
-	- CPU/AP(Application Processor)
-	- DC-DC 컨버터(전압 변환 회로)
-	- 모터 속도 제어 회로
+
