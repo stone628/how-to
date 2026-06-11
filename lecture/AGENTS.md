@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Electronics lecture series — Korean-language content only. All material is static markdown; no code, no tooling.
+Electronics lecture series — Korean-language content only. All material is static markdown; no code, no tooling. Target audience: middle school to high school students.
 
 - `index.md` is the table of contents. Each lecture links to the next via relative markdown links. Renaming/moving a file requires updating links in every other lecture file.
 
