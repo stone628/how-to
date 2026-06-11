@@ -2,6 +2,8 @@
 
 Electronics lecture series — Korean-language content only. All material is static markdown; no code, no tooling. Target audience: middle school to high school students.
 
+Goal: understand digital circuits at the logical level with minimal electronics engineering depth. The final project is a simple computer built from flip-flops (memory), an adder (CPU), and an LED (output).
+
 - `index.md` is the table of contents. Each lecture links to the next via relative markdown links. Renaming/moving a file requires updating links in every other lecture file.
 
 ## Content scope
